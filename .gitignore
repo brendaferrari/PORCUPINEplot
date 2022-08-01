@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Outputs
+output/
+
+# vscode
+.vscode
+
+# database
+
+# development
+input/
