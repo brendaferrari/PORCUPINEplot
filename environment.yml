@@ -1,0 +1,16 @@
+name: porcupineplot
+
+channels:
+  - conda-forge
+  - defaults
+  - schrodinger
+
+#for windows uncomment this
+# dependencies:
+  # - python=3.8
+  # - pymol=2.5.3
+
+#For linux uncomment this
+dependencies:
+  - python=3.8
+  - pymol=2.5.3
