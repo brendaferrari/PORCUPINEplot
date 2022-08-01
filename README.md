@@ -47,7 +47,7 @@ If you are interested only on running one folder, you may just add your files to
 pymol script.pml
 ```
 
-Before running the program, be aware to do some edits to the [script.pml](porcupineGenerator\script.pml) file:
+Before running the program, be aware to do some edits to the [script.pml](porcupineGenerator/script.pml) file:
 
 ```
 #---------------START-------------------------------------------------
