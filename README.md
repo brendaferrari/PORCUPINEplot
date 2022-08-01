@@ -78,7 +78,7 @@ save PCA_porcupine_pc0.pse,format=pse
 * This script was developed following the 
 SK D tutorial on youtube, the PML file was developed based on its PML file. The tutorial and files can be found [here](https://www.youtube.com/watch?v=4ORfXubNhJo&ab_channel=SKD).
 
-* The file [modvectors.py](porcupineGenerator\modevectors.py) was developed by [Sean M. Law](https://pymolwiki.org/index.php/User:Slaw) and its description can be found [here](porcupineGenerator\modevectors.py)
+* The file [modvectors.py](porcupineGenerator/modevectors.py) was developed by [Sean M. Law](https://pymolwiki.org/index.php/User:Slaw) and its description can be found [here](porcupineGenerator/modevectors.py)
 
 ---
 ## Authorship
